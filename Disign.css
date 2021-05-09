@@ -1,0 +1,35 @@
+﻿@charset "UTF-8";
+
+
+
+.image {
+    background-image:url('../animelogo.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+section h1{
+    color:darkmagenta;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button {
+    font-size:16px;
+    position:center;
+    float:inline-end;
+}
+footer{
+    float:right;
+}
+header div h1 b{
+    font-size:100px;
+    text-align:center;
+    
+}
+a:hover{
+    color:red;
+}
+.Photo img{
+    width:300px;
+
+
+}
